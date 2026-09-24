@@ -143,7 +143,7 @@ streamlit run app.py
 
 **Bhoomika M**
 
-Final Year B.E. (Artificial Intelligence & Machine Learning)
+ B.E (Artificial Intelligence & Machine Learning)
 
 GitHub: https://github.com/Bhoomika08-MAY
 
